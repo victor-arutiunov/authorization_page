@@ -18,7 +18,6 @@ export default {
   @import 'styles/variables';
 
   #app {
-    display: flex;
     padding-top: 70px;
 
     height: 100vh;

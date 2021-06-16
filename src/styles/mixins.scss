@@ -2,8 +2,10 @@
 @mixin title_font {
   font-family: 'Montserrat', 'Roboto', Ariel;
   font-weight: 500;
+  font-size: 21px;
 }
 @mixin main_font {
   font-family: 'Montserrat', 'Roboto', Ariel;
   font-weight: 400;
+  font-size: 18px;
 }
